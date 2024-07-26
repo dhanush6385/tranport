@@ -1,0 +1,507 @@
+#ya1{
+    display: flex;
+    background-color: rgb(63, 63, 226);
+    ul {
+        display: flex;
+        align-items: center;
+        li{
+            margin-left: 150px;  
+            a{
+                text-decoration: none;
+                color: white;
+            } 
+            a:hover{
+                color: orange;
+            }
+        }
+        li:hover{
+            background-color: black;
+            border-radius: 15%;
+            transform: scale(1.6);
+        }
+    }
+}
+.s{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.s div p{
+    margin-top: 30px;
+}
+#ya2{
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+}
+#ya3{
+    font-size: 60px;
+    font-weight: bolder;
+    border-bottom: 5px solid blue;
+    border-radius: 1px;
+    color: orange;
+}
+#ya4{
+    color: white;
+    font-size: xx-large;
+}
+
+
+.s button{
+    background-color: orange;
+    color: white;
+    width:200px ;
+    height: 50px;
+    margin-left: 10px;
+
+}
+.s button:hover{
+    background-color:red;
+   border-radius: 5%;
+    transform: scale(1.1);
+}
+#ya5{
+    background-color: blue;
+}
+#d{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#ya6{
+    font-weight: bolder;
+    font-size: 60px;
+    color: orange;
+    border-bottom: 5px solid red;
+    border-radius: 1px;
+    
+}
+#ya7{
+    font-size:x-large;
+    color: greenyellow;
+}
+#h{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#ya8{
+    font-weight: bolder;
+    font-size: 60px;
+    color: orange;
+    border-bottom: 5px solid pink;
+}
+#ya9{
+    font-size: x-large;
+    color: white;
+    font-weight: bolder;
+}
+#a{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    
+}
+#ya10{
+    font-weight: bolder;
+    font-size: 60px;
+    color: rgb(196, 161, 98);
+    border-bottom: 5px solid snow;
+}
+#ya11{
+    font-weight: bolder;
+    font-size: x-large;
+}
+#n{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(232, 172, 60);
+}
+#ya12{
+    font-weight: bolder;
+    font-size: 60px;
+    border-bottom: 5px solid green;
+
+}
+#ya13{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.u{
+    button{
+    background-color:white;
+    color:red;
+    width:200px ;
+    height: 50px;
+    margin-left: 10px;
+    font-size: medium;
+    }    
+}
+.bnt-1:hover{
+    background-color: violet;
+    transform: scale(1.1);
+    border-radius: 5%;
+}
+#ya14{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 5%;
+
+}
+#ya15{
+   background-color: black;
+   color: aliceblue;
+} 
+#ya16{
+    background-color: black;
+    color: azure;
+} 
+#ya17{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5%;
+}
+#ya18{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5%;
+}
+#ya15:hover{
+    background-color: brown;
+    transform: scale(1.1);
+    border-radius: 55%;
+}
+#ya16:hover{
+    background-color: brown;
+    transform: scale(1.1);
+    border-radius: 55%;
+}
+#ya17{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya17 p{
+    color: white;
+}
+#ya18{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+    
+}
+#ya18 p{
+    color: white;
+}
+#ya19{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya19 p{
+    color: white;
+}
+#ya20{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya20 p{
+    color: white;
+}
+#ya21{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya21 p{
+    color: white;
+}
+#ya22{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya22 p{
+    color: white;
+}
+#ya23{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya23 p{
+    color: white;
+}
+#ya24{
+    border:3px solid red;
+    margin: 0px; 
+    background-color: black;
+}
+#ya24 p{
+    color: white;
+}
+#ya25{
+    background-image: url(./yatri6.jpeg);
+    color: aliceblue;
+    margin-top: 20px;
+}
+#dh1{
+    background-color: yellow;
+    padding: 30px;
+    margin-top: 10px;
+}
+#dh2{
+    background-color: blueviolet;
+}
+#ya26{
+    display: flex;
+    justify-content: space-around;
+    gap: 3rem;
+    margin-top: 30px;
+}
+ #ya26 img:hover{
+    transform: translate(2px, 2px);
+    scale: 1.05;
+}
+ #ya27{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+     
+}
+#ya28{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+     
+}
+#ya29{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+     
+}
+#ya30{
+    display: flex;
+    justify-content: space-around;
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+}
+#ya31{
+    width: 300px;
+    height: 300px;
+    clip-path: circle();
+    margin-top: 5px;
+
+}
+#ya31 :hover{
+    transform: translate(2px 2px);
+    scale: 1.15;
+}
+#ya32{
+    width: 300px;
+    height: 300px;
+    clip-path: circle();
+    margin-top: 5px;
+    
+}
+#ya32 :hover{
+    transform: translate(2px 2px);
+    scale: 1.15;
+
+}
+#ya33{
+    display: flex;
+    justify-content:space-around;
+    border: 2px solid orange;
+    height: 200px;
+    margin-top: 5rem;
+    gap: 50px;
+    
+}
+ #ya34{
+    width: 300px;
+    height: 300px;
+    clip-path: circle();
+    margin-top: 5px;
+}
+#ya34 :hover{
+    transform: translate(2px 2px);
+    scale: 1.15;
+}
+#ya35{
+    width: 300px;
+    height: 300px;
+    clip-path: circle();
+    margin-top: 5px;
+}
+#ya35 :hover{
+    transform: translate(2px 2px);
+    scale: 1.15;
+}
+#ya36{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color:rgb(34, 32, 32);
+    color: white;
+    margin-top: 5rem;
+    
+    div{
+        margin: 10px;
+        #ya38{
+            border-bottom: 3px solid orangered;
+            border-radius:5px;
+            width: 300px;
+            
+        }
+        
+         }
+}
+#ya37{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: black;
+    color: white;
+    margin-top: 1rem;
+    div{
+        margin: 10px;
+     }
+
+}
+#ya39{
+    border-bottom: 3px solid orangered;
+    border-radius:5px;
+    width: 300px;
+}
+#ya40{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: oblique;
+    background-color: bisque;
+    margin-top: 20px;
+    div{
+        margin: 1rem;
+        
+    }
+}
+#ya41{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    border:5px solid violet ;
+}
+#ya41 img:hover{
+    rotate: 60deg;
+    scale: 1.1;
+    transition: 3s;
+}
+#ya42{
+    background-color: yellowgreen;
+    height: 300px;
+}
+#ya44{
+    display: flex;
+    justify-content: space-around;
+    
+    div{
+        font-size: xx-large;
+        color: white;
+        margin: 2rem;
+    }
+    
+}
+#ya45{
+    background-color: black;
+    
+    
+}
+#ya46{
+    color: white;
+    margin: 2rem;
+}
+#ya47{
+    color: white;
+    
+}
+#ya48{
+    border: 15px solid slategray;
+    background-color: rgb(197, 144, 247);
+    color: bisque;
+    padding: 30px;
+}
+#ya49{
+    display: flex;
+    justify-content: space-evenly;
+}
+#ya50{
+    margin-top: 10px;
+}
+#ya55{
+    background-color: black;
+    position: relative;
+}
+#ya54{
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+    animation: name 10s linear 0s infinite alternate ;
+}
+@keyframes name {
+    from{
+        left:0px;
+    }
+    to{
+        left:900px
+    }
+}
+#ya51{
+    color: white;
+}
+#ya52{
+    color: white;
+}
+#ya53{
+    color: white;
+}
+#ya56{
+    color:gray;
+    margin-top: 150px;
+}
+#ya57{
+    color:gray;
+    margin-top: 150px;
+}
+#ya57{
+    color:gray;
+    margin-top: 150px;
+}
+#ya58{
+    color:gray;
+    margin-top: 150px;
+}
+
+
+
+
+ 
+   
+
+
+
+    
+
+
+    
+
+
